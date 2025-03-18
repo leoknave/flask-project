@@ -64,7 +64,7 @@ Start the Flask app by running:
 Copy:
 python run.py
 If everything works correctly, the terminal should show:
-Running on http://127.0.0.1:5000/
-Now, open http://127.0.0.1:5000/ in your web browser.
+Running on http://127.0.0.1:####/
+Now, open http://127.0.0.1:####/ in your web browser.
 You should see a list of registered users displayed in a table.
 
