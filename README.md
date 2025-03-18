@@ -27,7 +27,7 @@ Note: If the virtual environment is activated, you should see (venv) at the begi
 Now, install the required dependencies:
 Copy:
 pip install -r requirements.txt
-⚙️ Step 2: Set Up the Database
+### **⚙️ Step 2: Set Up the Database
 Before running the app, initialize the database.
 
 Set Environment Variables
