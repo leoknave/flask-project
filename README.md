@@ -4,7 +4,6 @@
 This project is a **Flask web application** that displays a webpage with simple text and database records.  
 Follow these **exact** steps to set up, run, and test the application.  
 
-If **any step is missing** or incorrect, the project **will not be graded**. **Read carefully and follow every instruction.**  
 
 ## **🚀 Step 1: Install Dependencies**  
 ### **Create and Activate Virtual Environment**  
