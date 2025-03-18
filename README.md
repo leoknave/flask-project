@@ -59,7 +59,8 @@ python query.py
 If successful, you should see:
 Copy:
 Sample data inserted!
-🚀 Step 4: Run the Application
+
+## 🚀 Step 4: Run the Application
 Start the Flask app by running:
 Copy:
 python run.py
