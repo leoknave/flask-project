@@ -11,7 +11,7 @@ If **any step is missing** or incorrect, the project **will not be graded**. **R
 Before starting, open the terminal or command prompt and navigate to the project directory.
 
 #### **For Mac/Linux**:
-```bash
+
 python3 -m venv venv
 source venv/bin/activate
 For Windows (CMD):
@@ -27,7 +27,7 @@ Note: If the virtual environment is activated, you should see (venv) at the begi
 Now, install the required dependencies:
 Copy:
 pip install -r requirements.txt
-### **⚙️ Step 2: Set Up the Database
+## **⚙️ Step 2: Set Up the Database
 Before running the app, initialize the database.
 
 Set Environment Variables
